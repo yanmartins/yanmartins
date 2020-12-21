@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Yan Lucas Martins. I am a undergraduate Telecommunications Engineering student at IFSC, Brazil. Here you will find my academic and personal projects.
+My name is Yan Martins. I am a undergraduate Telecommunications Engineering student at IFSC, Brazil. Here you will find my academic and personal projects.
